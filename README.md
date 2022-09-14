@@ -1,6 +1,6 @@
 # student portfolio
 
-Hey! Welcome to my portfolio. This is Ritanshi
+Hey! Welcome to my portfolio. This is Ritanshi Arya
 
 For now, I know:
 
